@@ -1,0 +1,7 @@
+{
+  "name": "TrafficInsight AI",
+  "description": "Smart traffic congestion analysis system using Gemini AI and Maps grounding to visualize real-time city traffic levels.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

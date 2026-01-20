@@ -213,6 +213,7 @@ Each classification includes:
 
 **Keshavarthini B**
 CSE Student | Web Development | Full-Stack | UI/UX
-Hackathon Builder 
+
+Hackathon - Arctic League of Code
 
 ---
